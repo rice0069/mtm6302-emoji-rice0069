@@ -65,7 +65,10 @@ body {
     background-color: var(--main-bg-color);
 }
 
-
+code {
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 0.5);
+}
 
 .title {
     text-align: center;
